@@ -21,7 +21,7 @@ alert(Names);
 // //Exercise 2
 let Numbers=[1,2,3,4,5];
 alert(Numbers);
-
+// PARTIAL CREDIT : use an array to print each element in the array
 //Exercise3
 let Names2= ["willie","joe","timon","puma"];
 console.log(Names2[2]);
